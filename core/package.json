@@ -1,6 +1,6 @@
 {
   "name": "next-md-editor",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A markdown editor with preview, implemented with React.js and TypeScript.",
   "homepage": "https://uiwjs.github.io/react-md-editor/",
   "author": "TajulTonim <tajul.islam.tonim@gmail.com>",
