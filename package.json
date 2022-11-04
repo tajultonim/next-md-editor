@@ -2,8 +2,8 @@
   "private": true,
   "scripts": {
     "⬇️⬇️⬇️⬇️⬇️ package ⬇️⬇️⬇️⬇️⬇️": "▼▼▼▼▼ package ▼▼▼▼▼",
-    "watch": "npm run-script watch --workspace @uiw/react-md-editor",
-    "build": "npm run-script build --workspace @uiw/react-md-editor",
+    "watch": "npm run-script watch --workspace tajultonim/next-md-editor",
+    "build": "npm run-script build --workspace tajultonim/next-md-editor",
     "doc": "npm run-script build --workspace www",
     "start": "npm run-script start --workspace www",
     "⬆️⬆️⬆️⬆️⬆️ package ⬆️⬆️⬆️⬆️⬆️": "▲▲▲▲▲ package ▲▲▲▲▲",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiwjs/react-md-editor"
+    "url": "https://github.com/tajultonim/react-md-editor"
   },
   "license": "MIT",
   "devDependencies": {

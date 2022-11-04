@@ -5,7 +5,7 @@ import Toolbar from './components/Toolbar';
 import DragBar from './components/DragBar';
 import { getCommands, getExtraCommands, ICommand } from './commands';
 import { reducer, EditorContext, ContextStore, PreviewType } from './Context';
-import './index.less';
+// import './index.less';
 
 export interface IProps {
   prefixCls?: string;

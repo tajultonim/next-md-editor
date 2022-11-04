@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef } from 'react';
 import { IProps } from '../../Editor';
-import './index.less';
+// import './index.less';
 
 export interface IDragBarProps extends IProps {
   height: number;

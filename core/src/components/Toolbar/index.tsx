@@ -3,7 +3,7 @@ import { IProps } from '../../Editor';
 import { EditorContext, PreviewType, ContextStore } from '../../Context';
 import { ICommand } from '../../commands';
 import Child from './Child';
-import './index.less';
+// import './index.less';
 
 export interface IToolbarProps extends IProps {
   overflow?: boolean;

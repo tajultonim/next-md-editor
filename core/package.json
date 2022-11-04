@@ -1,9 +1,9 @@
 {
-  "name": "@uiw/react-md-editor",
+  "name": "tajultonim/next-md-editor",
   "version": "3.19.5",
   "description": "A markdown editor with preview, implemented with React.js and TypeScript.",
   "homepage": "https://uiwjs.github.io/react-md-editor/",
-  "author": "kenny wang <wowohoo@qq.com>",
+  "author": "TajulTonim <tajul.islam.tonim@gmail.com>",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "scripts": {
@@ -17,10 +17,11 @@
     "build": "tsbb build && npm run css:build && npm run css:build:dist",
     "test": "tsbb test --env=jsdom",
     "coverage": "tsbb test --env=jsdom --coverage --bail"
+
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uiwjs/react-md-editor"
+    "url": "https://github.com/tajultonim/next-md-editor"
   },
   "files": [
     "markdown-editor.css",

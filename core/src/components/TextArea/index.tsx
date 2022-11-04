@@ -5,7 +5,7 @@ import Markdown from './Markdown';
 import Textarea, { TextAreaProps } from './Textarea';
 import { IProps } from '../../Editor';
 import { TextAreaCommandOrchestrator, ICommand } from '../../commands';
-import './index.less';
+// import './index.less';
 
 type RenderTextareaHandle = {
   dispatch: ContextStore['dispatch'];
