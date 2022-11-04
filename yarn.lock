@@ -3642,7 +3642,7 @@
   dependencies:
     "@uiw/github-corners" "1.5.15"
 
-"@uiw/react-markdown-preview@^4.1.4", "@uiw/react-markdown-preview@^4.1.5":
+"@uiw/react-markdown-preview@^4.1.4":
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/@uiw/react-markdown-preview/-/react-markdown-preview-4.1.5.tgz#d133f7a90f7c0268871f209d90123f388a620d79"
   integrity sha512-CYiwzrarfg/jCsSHSfLkgxpLiqwZjmXhMJmwMa2SCct/PX/vt9wJJ84aNgUVbSjfQFKgmTlSWpDiN+kGnf8D/w==
@@ -10841,6 +10841,24 @@ neo-async@^2.6.0, neo-async@^2.6.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
+
+next-markdown-preview@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/next-markdown-preview/-/next-markdown-preview-1.0.0.tgz#ad62264625245d3d6992a9cbb89a725fd0beb616"
+  integrity sha512-pxo/tTl8RRGfqmYk8zfUjs6IrZbdyM6Wvy6yOmyvViuOGqYfGRAlS1yUNsxI88kPrmcHtbgEC9Xt24J2pfenGA==
+  dependencies:
+    "@babel/runtime" "^7.17.2"
+    "@uiw/copy-to-clipboard" "~1.0.12"
+    react-markdown "~8.0.0"
+    rehype-attr "~2.0.7"
+    rehype-autolink-headings "~6.1.1"
+    rehype-ignore "^1.0.1"
+    rehype-prism-plus "~1.5.0"
+    rehype-raw "^6.1.1"
+    rehype-rewrite "~3.0.6"
+    rehype-slug "~5.0.1"
+    remark-gfm "~3.0.1"
+    unist-util-visit "^4.1.0"
 
 no-case@^3.0.4:
   version "3.0.4"

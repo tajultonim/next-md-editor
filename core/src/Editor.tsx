@@ -1,5 +1,5 @@
 import React, { useEffect, useReducer, useMemo, useRef, useImperativeHandle, CSSProperties, PropsWithRef } from 'react';
-import MarkdownPreview, { MarkdownPreviewProps } from '@uiw/react-markdown-preview';
+import MarkdownPreview, { MarkdownPreviewProps } from 'next-markdown-preview';
 import TextArea, { ITextAreaProps } from './components/TextArea';
 import Toolbar from './components/Toolbar';
 import DragBar from './components/DragBar';
